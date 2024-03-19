@@ -10,9 +10,9 @@ body, html {
   box-sizing: border-box;
   display: grid;
   grid-template-rows: auto;
-  grid-template-columns: 20vw 75vw;
-  gap: 10px;
-  grid-template-rows: 10vh 10vh 70vh 10vh;
+  grid-template-columns: 300px 900px;
+  gap: 15px;
+  grid-template-rows: 100px 100px 500px 100px;
 }
 
 .container div {
